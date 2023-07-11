@@ -1,4 +1,6 @@
 # Different types of visualization wih Python
+
+## Some visuals which need run code 
 ### Global Sales By Year
 ![line](https://github.com/Luckinw/visualizations/assets/124313012/6a2c5b0b-fedd-4bf6-b390-9a9bb55ec1d3)
 
